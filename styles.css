@@ -1,0 +1,66 @@
+/* Estilos generales */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #2c3e50;
+    background-color: #f4f6f9;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Encabezado */
+header {
+    background-color: #1b365d;
+    color: #ffffff;
+    padding: 30px;
+    text-align: center;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* Secciones y Encabezados */
+h2 {
+    color: #1b365d;
+    border-bottom: 3px solid #d97706;
+    padding-bottom: 5px;
+    margin-top: 25px;
+}
+
+/* Tablas */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 15px 0;
+    background-color: #ffffff;
+}
+
+th, td {
+    border: 1px solid #cbd5e1;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #1b365d;
+    color: #ffffff;
+}
+
+/* Enlaces */
+a {
+    color: #d97706;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Pie de página */
+footer {
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #e2e8f0;
+    border-radius: 6px;
+    text-align: center;
+}
